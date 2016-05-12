@@ -76,6 +76,8 @@
 %
 %Written by EBG 11/9/2013
 %
+%%The MIT License (MIT)
+%Copyright (c) 2016 Evan B. Goldstein
 %
 
 clear all
